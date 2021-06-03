@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="Capa_1"
+   x="0px"
+   y="0px"
+   viewBox="0 0 499.712 499.712"
+   style="enable-background:new 0 0 499.712 499.712;"
+   xml:space="preserve"
+   sodipodi:docname="moon.svg"
+   inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)"><metadata
+   id="metadata47"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+   id="defs45" /><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1020"
+   inkscape:window-height="520"
+   id="namedview43"
+   showgrid="false"
+   inkscape:zoom="0.13000575"
+   inkscape:cx="46.997301"
+   inkscape:cy="265.22219"
+   inkscape:window-x="831"
+   inkscape:window-y="214"
+   inkscape:window-maximized="0"
+   inkscape:current-layer="Capa_1" />
+<path
+   style="fill:#ffd93b"
+   d="m 352.832,375.528 c -126.272,0 -228.624,-102.368 -228.624,-228.64 0,-55.952 20.16,-107.136 53.52,-146.88 C 74.656,33.096 0.016,129.64 0.016,243.704 c 0,141.392 114.608,256 256,256 114.064,0 210.608,-74.64 243.696,-177.712 -39.744,33.376 -90.944,53.536 -146.88,53.536 z"
+   id="path2" />
+<path
+   style="fill:#f4c534"
+   d="m 97.792,42.776 c -34.24,43.504 -54.816,98.272 -54.816,157.952 0,141.392 114.608,256 256,256 59.68,0 114.448,-20.576 157.952,-54.816 C 410.08,461.384 337.584,499.704 256,499.704 114.608,499.704 0,385.096 0,243.704 0,162.12 38.32,89.64 97.792,42.776 Z"
+   id="path4" />
+<g
+   id="g10"
+   transform="matrix(-1,0,0,1,499.712,0)">
+	<polygon
+   style="fill:#ffd83b"
+   points="154.496,153.4 213.472,161.96 170.8,203.56 180.864,262.296 128.128,234.568 75.376,262.296 85.44,203.56 42.768,161.96 101.744,153.4 128.128,99.944 "
+   id="polygon6" />
+	<polygon
+   style="fill:#ffd83b"
+   points="290.528,110.552 321.104,114.984 298.976,136.552 304.208,166.984 276.864,152.616 249.52,166.984 254.752,136.552 232.624,114.984 263.2,110.552 276.864,82.84 "
+   id="polygon8" />
+</g>
+<g
+   id="g12">
+</g>
+<g
+   id="g14">
+</g>
+<g
+   id="g16">
+</g>
+<g
+   id="g18">
+</g>
+<g
+   id="g20">
+</g>
+<g
+   id="g22">
+</g>
+<g
+   id="g24">
+</g>
+<g
+   id="g26">
+</g>
+<g
+   id="g28">
+</g>
+<g
+   id="g30">
+</g>
+<g
+   id="g32">
+</g>
+<g
+   id="g34">
+</g>
+<g
+   id="g36">
+</g>
+<g
+   id="g38">
+</g>
+<g
+   id="g40">
+</g>
+</svg>
